@@ -1,0 +1,7 @@
+{
+  "name": "Railent Test Agent",
+  "description": "Agent used for Railent E2E validation on Base Sepolia.",
+  "tags": ["test", "base-sepolia", "railent"],
+  "pricing": { "model": "per_task", "rate": "10 USDC" },
+  "website": "https://railent.io"
+}
